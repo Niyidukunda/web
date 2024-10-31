@@ -1,0 +1,1 @@
+This is my Personal Page, built on the HTML Bootstraps framework, as part of my course on Web Design. There might be errors in code or unresponsive sections which may affect the overall look of the page. Please bear in mind that the site is continously under maintenance and experimentation.
